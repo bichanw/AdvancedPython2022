@@ -7,6 +7,6 @@ Google colab works, but it relies on remote machines of which you have less cont
 3. Going into the environment `conda activate advp`
 4. Install necessary packages in your environment. 
 	```
-	conda install git jupyterlab matplotlib seaborn conda-forge::gh
+	conda install numpy git jupyterlab matplotlib seaborn pandas scipy scikit-learn conda-forge::gh
 	```
-	
+
