@@ -1,4 +1,4 @@
-#Advanced Python 2022
+# Advanced Python 2022
 
 ## Set up environment
 Google colab works, but it relies on remote machines of which you have less control. To install proper environment to run python code on your own machine:
