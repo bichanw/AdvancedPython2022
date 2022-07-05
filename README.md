@@ -11,4 +11,4 @@ Google colab works, but it relies on remote machines of which you have less cont
 	conda install numpy git jupyterlab matplotlib seaborn pandas scipy scikit-learn conda-forge::gh
 	```
 
-change demo
+change
