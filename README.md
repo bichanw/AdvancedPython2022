@@ -1,6 +1,5 @@
 # Advanced Python 2022
 
-another line
 ## Set up environment
 Google colab works, but it relies on remote machines of which you have less control. To install proper environment to run python code on your own machine:
 1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html#)
@@ -10,5 +9,3 @@ Google colab works, but it relies on remote machines of which you have less cont
 	```
 	conda install numpy git jupyterlab matplotlib seaborn pandas scipy scikit-learn conda-forge::gh
 	```
-
-change
